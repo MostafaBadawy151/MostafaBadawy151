@@ -37,7 +37,7 @@ Duration: 4/2022 - 6/2022
 
 **Tools & DevOps:**
   - *Git (GitHub, GitLab)*
-  - *Azure DevOps *
+  - *Azure DevOps*
   - *Docker*
   - *CI/CD pipelines*
   
@@ -54,5 +54,5 @@ Duration: 4/2022 - 6/2022
   
 **📚 Education:**
   - *Bachelor's degree, Engineering*
-   - *Helwan University, 2021*
-    - GPA: 3.1
+     *Helwan University, 2021*
+      *GPA: 3.1*
