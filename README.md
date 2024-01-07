@@ -51,7 +51,7 @@ Problem Solving:
 Collaboration:
   Strong team player with excellent communication skills.
   
-📚 Education
+📚 Education:
   Bachelor's degree, Engineering
   Helwan University, 2021
   GPA: 3.1
