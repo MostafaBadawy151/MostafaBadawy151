@@ -8,13 +8,13 @@
   
 **💼 Professional Experience**
 
-- *Route Academy, Egypt, Cairo*
-- Role: .NET Full Stack Developer Trainee
-- Duration: 11/2022 - 11/2023
+ **Route Academy, Egypt, Cairo**
+- *Role: .NET Full Stack Developer Trainee*
+- *Duration: 11/2022 - 11/2023*
 
-National Telecommunication Institute (NTI), Egypt, Cairo
-Role: .NET Full Stack Developer Trainee
-Duration: 4/2022 - 6/2022
+**National Telecommunication Institute (NTI), Egypt, Cairo**
+- *Role: .NET Full Stack Developer Trainee*
+- *Duration: 4/2022 - 6/2022*
 
 **🚀 Tech Stack**
 - *I specialize in building robust and scalable applications using the following technologies:*
@@ -55,4 +55,4 @@ Duration: 4/2022 - 6/2022
 **📚 Education:**
   - *Bachelor's degree, Engineering*
      *Helwan University, 2021*
-      *GPA: 3.1*
+      - *GPA: 3.1*
