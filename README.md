@@ -16,43 +16,43 @@ National Telecommunication Institute (NTI), Egypt, Cairo
 Role: .NET Full Stack Developer Trainee
 Duration: 4/2022 - 6/2022
 
-🚀 Tech Stack
-I specialize in building robust and scalable applications using the following technologies:
+**🚀 Tech Stack**
+- *I specialize in building robust and scalable applications using the following technologies:*
 
-Frontend:
-  HTML5, CSS3, Bootsrap, SCSS, JavaScript, OOP,TypeScript, JQuery, Ajax
-  React, React testing
-  Next.Js
+**Frontend:**
+  - HTML5, CSS3, Bootsrap, SCSS, JavaScript, OOP,TypeScript, JQuery, Ajax*
+  - *React, React testing*
+  - *Next.Js*
 
-Backend:
-  C#, Object Oriented Programming (OOP)
-  LINQ, Entity Framework, Dapper
-  ASP.NET Core MVC
-  RESTful API development
-  SignalR
-  Blazor Web Assembely
+**Backend**
+  - *C#, Object Oriented Programming (OOP)*
+  - *LINQ, Entity Framework, Dapper*
+  - *ASP.NET Core MVC*
+  - *RESTful API development*
+  - *SignalR*
+  - *Blazor Web Assembely*
 
-Database:
-  SQL Server & SQLite
+**Database:**
+  - *SQL Server & SQLite*
 
-Tools & DevOps:
-  Git (GitHub, GitLab)
-  Azure DevOps 
-  Docker
-  CI/CD pipelines
+**Tools & DevOps:**
+  - *Git (GitHub, GitLab)*
+  - *Azure DevOps *
+  - *Docker*
+  - *CI/CD pipelines*
   
-🌱 Skills & Interests
+**🌱 Skills & Interests**
 
-Full Stack Development:
-  End-to-end application development, from frontend UI/UX to backend server logic.
+**Full Stack Development:**
+  - *End-to-end application development, from frontend UI/UX to backend server logic.*
 
-Problem Solving:
-  Enjoy tackling complex problems and finding elegant solutions applying solid principles and design patterns
+**Problem Solving:**
+   - *Enjoy tackling complex problems and finding elegant solutions applying solid principles and design patterns.*
   
-Collaboration:
-  Strong team player with excellent communication skills.
+**Collaboration:**
+  - *Strong team player with excellent communication skills.*
   
-📚 Education:
-  Bachelor's degree, Engineering
-  Helwan University, 2021
-  GPA: 3.1
+**📚 Education:**
+  - *Bachelor's degree, Engineering*
+   - *Helwan University, 2021*
+    - GPA: 3.1
