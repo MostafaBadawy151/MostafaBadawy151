@@ -1,16 +1,16 @@
 👋 **Hello! I'm Mostafa Ahmed**
  - *A passionate and results-driven .NET Full Stack Developer with a deep love for crafting clean and efficient code. I thrive in dynamic environments and enjoy taking on new challenges   to enhance my skills.*
 
-📫 Let's Connect!
-  LinkedIn: www.linkedin.com/in/mostafa-ahmed-8055a4268
-  Email: mostafaahmedmahmoud98@gmail.com
-  Telephone Number: 01115168397
+**📫 Let's Connect!**
+  - *LinkedIn: www.linkedin.com/in/mostafa-ahmed-8055a4268*
+  - *Email: mostafaahmedmahmoud98@gmail.com*
+  - *Telephone Number: 01115168397*
   
-💼 Professional Experience
+**💼 Professional Experience**
 
-Route Academy, Egypt, Cairo
-Role: .NET Full Stack Developer Trainee
-Duration: 11/2022 - 11/2023
+- *Route Academy, Egypt, Cairo*
+- Role: .NET Full Stack Developer Trainee
+- Duration: 11/2022 - 11/2023
 
 National Telecommunication Institute (NTI), Egypt, Cairo
 Role: .NET Full Stack Developer Trainee
