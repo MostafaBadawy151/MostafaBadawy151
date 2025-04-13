@@ -7,6 +7,21 @@
   - *Telephone Number: 01115168397*
   
 **💼 Professional Experience**
+**Link Development, Egypt, Maadi**
+- Senior .NET Devloper 
+- Duration: 02-2025 - Present
+
+**Contact Financial Holding, Egypt, Downtown** 
+- Software Engineer
+- Duration: 03-2024 - 02-2024
+
+**Gulf Grid for system development** 
+- .Net Developer
+- Duration: 05-2023 - 12-2023
+
+Marketing Masr Company
+- .NET Developer
+- Duration: 01-2023 - 03-2023
 
  **Route Academy, Egypt, Cairo**
 - *Role: .NET Full Stack Developer Trainee*
